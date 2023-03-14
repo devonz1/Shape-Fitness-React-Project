@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+ 
+ 
+.row{
+  width: 65% !important;
+  height: 70px !important;
+}
+ .formed{
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  font-size: 15px !important;
+ }
+  
+ .col1{
+  color: white !important;
+
+ } 
+  
+ .col2{
+  color: white !important;
+ }
+ 
+  .main{
+  color :white;
+   background-color:rgb(1, 48, 70);
+    height: 100vh;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+ }
+
+ 
+ 
+ 
+
