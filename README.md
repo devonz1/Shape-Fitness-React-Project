@@ -15,6 +15,9 @@ SEMANTIC UI REACT FOR STYLING
 
 
  #  SCREENSHOTS
+ 
+ 
+ 
 <img src = "shape fitness react 1.png">
 <img src = "shape fitness react 2.png">
 <img src = "shape fitness react 3.png">
